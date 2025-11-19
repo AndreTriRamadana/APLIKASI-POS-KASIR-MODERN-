@@ -24,7 +24,7 @@ namespace APLIKASI_POS__KASIR_MODERN_
 
         private void label6_Click(object sender, EventArgs e)
         {
-
+              
         }
     }
 }
